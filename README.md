@@ -12,7 +12,7 @@
  
  ### Connect with me:
 
-[<img align="left" width="28px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />][twitter]
+[<img align="left" width="30px" height='10px'  src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />][twitter]
 [<img align="left" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />][instagram]
 
 <br />
