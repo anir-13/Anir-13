@@ -12,7 +12,7 @@
  
  ### Connect with me:
 
-[<img align="left" width="26px" src="https://play.google.com/store/apps/details?id=com.twitter.android&hl=en_IN&gl=US" />][twitter]
+[<img align="left" width="26px" src="https://cdn.searchenginejournal.com/wp-content/uploads/2021/03/51ce9e0f-aac9-4290-8c9c-1939472065ce-6058cfa96eb19-760x400.jpeg" />][twitter]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
